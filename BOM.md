@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [VEVOR Inline Duct Fan, 8-Inch 750 CFM with Variable Speed Controller, Quiet AC-motor Ventilation Exhaust Fan for Cooling](https://www.vevor.ca/inline-duct-fan-c_11974/vevor-8-inch-inline-duct-fan-hvac-exhaust-blower-kit-ac-variable-speed-control-p_010502588189) | Actually getting winds of up to 35 km/h. | 1 | $90.90 | $90.90 | [VEVOR](https://www.vevor.ca/inline-duct-fan-c_11974/vevor-8-inch-inline-duct-fan-hvac-exhaust-blower-kit-ac-variable-speed-control-p_010502588189) |
 | **Parts subtotal** | — | — | — | **$90.90** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$90.90** | — |
+| **Tax & shipping** | — | — | — | **$9.10** | — |
+| **Total** | — | — | — | **$100.00** | — |
 
-$9.10 left of the tier's funding.
+$0.00 left of the tier's funding.
