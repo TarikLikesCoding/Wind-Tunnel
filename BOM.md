@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [2 Sets Load Cell Weighing Sensor Portable Electronic Kitchen Scale + HX711 AD Weighit Amplifier Module Pressure Sensor f](https://www.amazon.ca/Weighing-Portable-Electronic-Amplifier-Pressure/dp/B0CMXFSDXT?ref_=ast_sto_dp&th=1) | The actual component that gives the force readings | 1 | $14.99 | $14.99 | [SazkJere](https://www.amazon.ca/Weighing-Portable-Electronic-Amplifier-Pressure/dp/B0CMXFSDXT?ref_=ast_sto_dp&th=1) |
 | [VEVOR Inline Duct Fan, 8-Inch 750 CFM with Variable Speed Controller, Quiet AC-motor Ventilation Exhaust Fan for Cooling](https://www.vevor.ca/inline-duct-fan-c_11974/vevor-8-inch-inline-duct-fan-hvac-exhaust-blower-kit-ac-variable-speed-control-p_010502588189) | Actually getting winds of up to 35 km/h. | 1 | $90.90 | $90.90 | [VEVOR](https://www.vevor.ca/inline-duct-fan-c_11974/vevor-8-inch-inline-duct-fan-hvac-exhaust-blower-kit-ac-variable-speed-control-p_010502588189) |
-| **Parts subtotal** | — | — | — | **$105.89** | — |
+| **Parts subtotal** | — | — | — | **$90.90** | — |
 | **Tax & shipping** | — | — | — | **$13.77** | — |
-| **Total** | — | — | — | **$119.66** | — |
+| **Total** | — | — | — | **$104.67** | — |
 
-**$19.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.67 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
